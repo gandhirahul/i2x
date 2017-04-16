@@ -9,8 +9,8 @@ var cookieHelpers = require('../utils/cookieHelpers');
 var Login = React.createClass({
   getInitialState: function() {
     return {
-      email:'challenge@i2x.ai',
-      password:'pass123',
+      email:'',
+      password:'',
       showLoader:false
     };
   },

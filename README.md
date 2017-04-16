@@ -7,6 +7,11 @@ A simple React app with two views:
 2.List view page-
 	Renders the audio recordings metadata.
 
+You can login with following credentails: 
+
+	email:'challenge@i2x.ai'
+	password:'pass123'
+
 Steps to run the project locally:
 
 1. git clone https://github.com/gandhirahul/i2x.git
