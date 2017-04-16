@@ -8,7 +8,7 @@ var $ = require('gulp-load-plugins')();
 var browserify = require('browserify');
 var watchify = require('watchify');
 var source = require('vinyl-source-stream'),
-    sourceFile = './app/scripts/index.js',
+    sourceFile = './app/scripts/Index.js',
     destFolder = './dist/scripts',
     destFileName = 'app.js';
 
