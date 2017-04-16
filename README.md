@@ -17,10 +17,10 @@ Steps to run the project locally:
 1. git clone https://github.com/gandhirahul/i2x.git
 
 2. Install the dependencies 
-	-npm install
+	> npm install
 
 3. Run the app
-	-npm start
+	> npm start
 
 Launch your browser and hit http://localhost:5000
 
@@ -37,5 +37,5 @@ I have deployed the application on Heroku.You can review it here: **https://rahu
 3. The heroku git:remote command will add this remote for you based on your applications git url
 	> heroku git:remote -a your-heroku-application
 
-4. You can do your first push
+4. You can do your first push and heroku will start building the source
 	> git push heroku master
